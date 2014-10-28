@@ -1,0 +1,18 @@
+#oopsDetectorOSD
+{
+
+	position: fixed !important;
+	top: 64px !important;
+	left: 64px !important;
+	background-color: transparent !important;
+	border-style: solid !important;
+	border-width: 2px !important;
+	border-color: yellow !important;
+	padding: 12px !important;
+	font-size: 14pt !important;
+	line-height: 14pt !important;
+	z-index: 9999 !important;
+	color:#000 !important;
+	width: auto !important;
+	z-index: 9999 !important;
+}
